@@ -100,6 +100,9 @@ firewall-cmd --reload
 ### **2.5 Restart DNS Server dan Flush DNS**
 ```sh
 systemctl restart named
+```
+Jika websitenya tidak bisa di akses, silahkan untuk flushdns anda lewat powershell dengan command:
+```
 ipconfig /flushdns
 ```
 
