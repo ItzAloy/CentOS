@@ -106,6 +106,3 @@ Jika websitenya tidak bisa di akses, silahkan untuk flushdns anda lewat powershe
 ipconfig /flushdns
 ```
 
----
-Dokumentasi ini membantu pemula memahami dan mengonfigurasi Web Server serta DNS Server dengan mudah. Pastikan mengganti `your-domain.id` dan `your_ip` sesuai dengan kebutuhan jaringan Anda.
-
